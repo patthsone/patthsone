@@ -6,7 +6,7 @@
 ### <div align="center">My name is Patts, I'm a developer student 👨‍💻, I started learning languages ​​in 2025 🚀</div>  
   
 
-- 🔭 В настоящее время я работаю над [Github Profilinator]https://github.com/patthsone/BlockerPasses-CS2)  
+- 🔭 В настоящее время я работаю над [[Github Profilinator]https://github.com/patthsone/BlockerPasses-CS2) ](https://github.com/patthsone/BlockerPasses-CS2) 
   
 
 - 🌱 В настоящее время я изучаю C++ и C#.  
